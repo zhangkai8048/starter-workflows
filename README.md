@@ -47,3 +47,5 @@ These variables can be placed in the starter workflow and will be substituted as
 * `$default-branch`: will substitute the branch from the repository, for example `main` and `master`
 * `$protected-branches`: will substitute any protected branches from the repository
 * `$cron-daily`: will substitute a valid but random time within the day
+
+add test
